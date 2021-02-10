@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Hi Humans,
+this is a short test to become a git-humans...
